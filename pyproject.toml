@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "focus-stealer"
-version = "0.1.0"
+version = "1.0.0"
 description = "Prints the active macOS app focus"
 authors = ["Your Name <you@example.com>"]
 packages = [{ include = "focus_stealer.py", from = "." }]
